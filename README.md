@@ -473,5 +473,5 @@ public class GraphicsLineRenderer : MonoBehaviour
 }
 
 ```
+![GraphViewer](https://github.com/kalstjd96/Unity_CyberPlantAR/assets/47016363/4a15b007-6a0b-413e-bb4d-35d637f9f657)
 
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4bce9982-9a99-459c-8698-46a1d81eedb1/Untitled.png" width="400" height="250"/>
